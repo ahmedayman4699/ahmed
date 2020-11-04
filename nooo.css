@@ -1,0 +1,25 @@
+p 
+{
+color: #000000;
+
+}
+h1{
+
+    color: crimson;
+    font-style: italic;
+    font-size: xx-large;
+}
+h3{
+    color: darkblue;
+    width: 200;
+    height: 200;
+    font-style: oblique;
+}
+h2{
+color: darkgreen;
+size: 0ex;
+}
+p{
+font-style: italic;
+
+}
